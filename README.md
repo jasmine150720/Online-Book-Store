@@ -22,6 +22,6 @@ Project: Using Servlet, JSP and MySql
 - **Thriftbooks**: ThriftBooks is a large web-based used bookseller headquartered near Seattle, Washington. ThriftBooks sells used books, DVDs, CDs, VHS tapes, video games, and audio cassettes. Nothing to criticize but it also has no place for customers to sell used books
 - **Half Price Books**: Half Price Books, Records, Magazines, Incorporated is a chain of new and used bookstores in the United States. The company's original motto is "We buy and sell anything printed or recorded except yesterday's newspaper", and many of the used books, music, and movies for sale in each location are purchased from local residents.Website that blocks link in some countries
 ## Сравнительный анализ аналогов
-![image](https://user-images.githubusercontent.com/85243027/138411136-13d39957-1e54-4daa-9369-fb36d1cf1e84.png)
+![image](https://user-images.githubusercontent.com/85243027/138411901-d2b15a7e-6ba9-4dac-ba64-583a3358e85b.png)
 ## Вывод
 In fact, offline book business has less revenue than online. Students need to buy comics, they usually got to the store to buy books by themselves. But for learning books or skill books for office people, parents often have the need to buy books online. Online bookstores or e-commerce websites like Ozon, Amazon, bookshop.org, etc. are chosen by customers a lot. Therefore, we can see an extremely effective form of online business, easier to reach more customers than we think.
