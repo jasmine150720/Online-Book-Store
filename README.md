@@ -1,7 +1,7 @@
 # Online-Book-Store :books:
 ## High-Level Overview
 - **Project**: Online Bookstore (a website that you can buy old or new books online)
-- ****: The main customers are kids, students or working people, office workers... For each object will have a book to serve their needs more precisely.
+- **Customer**: The main customers are kids, students or working people, office workers... For each object will have a book to serve their needs more precisely.
 ## Высокоуровневое описание деталей
 Project: Using Servlet, JSP and MySql
 - **Site managers**:
