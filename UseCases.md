@@ -49,9 +49,9 @@
 | Description  |  Add books, Remove books, Update books |
 |  Characters | Admin |   
 | Preconditions  | Admin is logged in <br> The Categories record exists for editing/view |  
-| Main stream  | The use case begins when the actor indicates the intent to view, update, add or delete Categories record. It ends when the actor closes the Category form.|   
+| Main stream  | 	The use case begins when the actor indicates the intent to add, update, delete or view item is a record. Categories can be searched. It ends when the actor closes the form.|   
 |  Alternate streams | (none) |   
-|  Postconditions | The Categories record is added, removed or updated.|  
+|  Postconditions | The Categories record is added, removed or updated.<br> 	The item’s record is added or updated.|  
 ### 🔥
 | Use case  |	Manage cart  |
 |---|---|
@@ -70,3 +70,30 @@
 | Main stream  | The use case begins when the actor indicates the intent to view orders detail of customers.|   
 |  Alternate streams |  (none) |   
 |  Postconditions | The actor dispatch or cancel the customer record.|  
+### 🔥
+| Use case  |Sell old books |
+|---|---|
+| Description  | Customers have the ability to sell their old books on the system  |
+|  Characters | 	Costumer |   
+| Preconditions  |The actor is logged in  |  
+| Main stream  | The use case begins when the actor indicates the intent add their old books to Categories . It ends when the actor finishes the form. |   
+|  Alternate streams |  (none) |   
+|  Postconditions |The Categories record is added old books|  
+### 🔥
+| Use case  |Return books  |
+|---|---|
+| Description  |Customers have the ability to return the book after receiving it |
+|  Characters | 	Costumer |   
+| Preconditions  |The actor is logged in <br> The book has been delivered to the customer |  
+| Main stream  | The use case begins begins when the customer intends to return the book and begins to fill out the return form: reason, address to pick up the book, ... |   
+|  Alternate streams |  (none) |   
+|  Postconditions |Return request accepted|  
+### 🔥
+| Use case  |Make payment |
+|---|---|
+| Description  |Choose the payment method for the invoice |
+|  Characters | 	Costumer |   
+| Preconditions  |The actor is logged in <br>  |  
+| Main stream  | 	Fill in the delivery information and Choose the payment method |   
+|  Alternate streams |  (none) |   
+|  Postconditions |Order Success.|  
