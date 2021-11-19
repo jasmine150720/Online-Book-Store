@@ -42,7 +42,7 @@
 | Preconditions  | (none)  |  
 | Main stream  |This use case starts when a Guest accesses the “Search” feature of the system. <br> - The System displays the search submission box <br>	- The Guest enters search criteria and submits <br> - The system displays results <br> - Use Case ends.|   
 |  Alternate streams |	Guest selects the “Cancel” option. <br>	System returns Guest to Home page.|   
-|  Postconditions |The search is successfully executed |  
+|  Postconditions |The system will display the books which matches the selected search criteria.A dataset is created as a result of select query. Later the dataset is binder to the data repeater to display the selected data. |  
 ### 🔥
 | Use case  | Maintain the book records |
 |---|---|
