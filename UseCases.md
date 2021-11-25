@@ -97,3 +97,12 @@
 | Main stream  | 	Fill in the delivery information and Choose the payment method |   
 |  Alternate streams |  (none) |   
 |  Postconditions |Order Success.|  
+### 🔥
+| Use case  |Log out |
+|---|---|
+| Description  |If the user wants to end his session and sign out of the website then he can use the logout option.|
+|  Characters | 	User, Admin |   
+| Preconditions  |The actor is logged in <br>  |  
+| Main stream  | 	The user will click the logout button. |   
+|  Alternate streams |  (none) |   
+|  Postconditions |The user’s account session comes to an end and he should login again.|  
