@@ -20,9 +20,10 @@
 |   	|   Book Name	|  This will inform you about the name of selected book. 	|
 |   	|   Order ammount	|  This will imform us the number of books sold, control the items 	|
 ## Entity Relationship Diagram
-![image](https://user-images.githubusercontent.com/85243027/143510487-9b6dc286-5860-4f44-b662-7b858eae7587.png)
+![image](https://user-images.githubusercontent.com/85243027/144512197-7f0ff2d3-cfc4-45e1-aa7d-e4faa9ab79c8.png)
 ## Database model
-![image](https://user-images.githubusercontent.com/85243027/143510211-ef83d412-afe8-469a-85cd-edf2ad92a228.png)
+![image](https://user-images.githubusercontent.com/85243027/144512364-5d39ac14-ac86-4ebd-8546-c6d0ef931bd4.png)
+
 
 
 
