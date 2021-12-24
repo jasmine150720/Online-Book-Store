@@ -44,6 +44,7 @@
 
 ## Interface diagram
 ### User
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/85243027/145513870-f115dc9b-6a10-4832-a02b-2386ecfeffe2.png)
+![1 drawio](https://user-images.githubusercontent.com/85243027/147310208-71331316-0049-457f-9ce1-eaaf3e78213b.png)
 ### Admin
-![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/85243027/145514981-0ee792e0-a852-45ee-ab52-14a9b91d5ba0.png)
+![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/85243027/147311632-7539b3ba-9d2f-49f4-a618-e7ce0e304778.png)
+
